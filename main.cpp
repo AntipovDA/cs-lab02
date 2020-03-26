@@ -22,4 +22,13 @@ int main()
     }
 
 
+        if (a < b)
+    {
+        cout << "min = " << a;
+    }
+    else
+    {
+        cout << "min = " << b;
+    }
+
 }
